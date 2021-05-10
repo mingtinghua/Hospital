@@ -12,5 +12,6 @@ hello git
 hello git
 hello git
 hello git
+hello git
+hello git
 hello git mast.txt
-hello git hot.txt
